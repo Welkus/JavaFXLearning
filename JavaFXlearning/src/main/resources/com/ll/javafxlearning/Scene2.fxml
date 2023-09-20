@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ll.javafxlearning.Scene2C">
+   <children>
+      <Slider fx:id="slider" layoutX="262.0" layoutY="249.0" />
+      <Label fx:id="labeForPre" layoutX="318.0" layoutY="192.0" text="Label" />
+   </children>
+</AnchorPane>
